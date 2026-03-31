@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u+GE8FMS+zE=",
+  "success": true,
+  "projectFilePath": "D:\\Practice\\crudapisample\\crudapisample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\homep\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.12\\microsoft.aspnetcore.openapi.9.0.12.nupkg.sha512",
+    "C:\\Users\\homep\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
